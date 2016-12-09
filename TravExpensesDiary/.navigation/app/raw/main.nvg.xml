@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.pkumar.travexpensesdiary.AddExpense"/>
+      <point      
+        x = "1612"      
+        y = "20"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.pkumar.travexpensesdiary.ExpensesIndex"/>
+      <point      
+        x = "284"      
+        y = "80"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
